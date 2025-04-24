@@ -1,0 +1,28 @@
+Transcript of meeting#3 about "Super cache" feature : 
+
+Philippe: "Good afternoon, team. Today, we're here to conduct a retrospective on the deployment of the 'Super Cache' feature. Let's begin with a quick overview. Mary, can you summarize the deployment process and highlight any notable aspects?"
+
+Mary: "Certainly, Philippe. The deployment process went relatively smoothly overall. We followed the planned rollout strategy, starting with a small percentage of users and gradually increasing. Karim and the team addressed the last-minute bug promptly, allowing us to proceed with the deployment with a workaround in place."
+
+Philippe: "Great. Now, let's open the floor for feedback. Karim, any reflections on the technical side of things?"
+
+Karim: "From a technical standpoint, I'm pleased that we were able to address the bug swiftly and implement a workaround. However, it highlighted the importance of thorough testing, especially in complex systems. We need to enhance our testing procedures to catch potential conflicts early on."
+
+Betty: "On the QA side, the bug was unexpected, but it was caught during testing. It reinforces the need for continuous testing and vigilance, especially as we introduce new features. Going forward, I'll be looking into ways to enhance our test coverage for similar scenarios."
+
+Philippe: "Good insights, Karim and Betty. Communication is key in these situations. Mary, any thoughts on how we handled communication during the deployment and bug resolution?"
+
+Mary: "Overall, I think our communication was effective. We kept the team informed about the bug, the workaround, and the post-launch patch plan. However, we can improve on setting expectations with stakeholders. Clear communication about potential delays is something we can refine for future deployments."
+
+Philippe: "Agreed. Transparent communication is crucial. Now, let's talk about the performance of the 'Super Cache' feature post-deployment. How are we looking, Karim?"
+
+Karim: "The performance has been solid. The server loads have been well within expected parameters, and we haven't observed any major issues. The temporary workaround seems to be holding up, and we'll proceed with the planned post-launch patch to implement a permanent fix."
+
+Philippe: "Excellent. Before we conclude, any other points or lessons learned that we should capture for future reference?"
+
+Mary: "I'd like to emphasize the importance of a post-mortem review after each deployment. It allows us to learn from our experiences, refine our processes, and continuously improve."
+
+Betty: "Additionally, having a dedicated channel for real-time communication during deployments proved beneficial. It enabled quick collaboration and problem resolution."
+
+Philippe: "Great suggestions, Mary and Betty. Let's integrate these improvements into our deployment playbook. Overall, despite the unexpected bug, I'm proud of how the team handled the situation. Thank you all for your hard work. Let's apply these learnings to make our future deployments even smoother. Meeting adjourned."
+
