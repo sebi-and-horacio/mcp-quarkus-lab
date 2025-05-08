@@ -22,7 +22,7 @@ Go to the `mcp-server` folder and open the project in your editor. Create a new 
 
 Check the documentation [here](https://docs.quarkiverse.io/quarkus-mcp-server/dev/). 
 
-Start your MCP Server :  `mvn quarkus:dev` or `quarkus dev` , it will be running on port `8081`. 
+Start your MCP Server :  `mvn quarkus:dev` or `quarkus dev` , it will be running on port `8082`. 
 
 ## Step 3 : Refactor your initial app to a MCP Client
 
