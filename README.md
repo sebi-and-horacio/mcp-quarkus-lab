@@ -42,7 +42,7 @@ Update your `application.properties` :
 
 ```
 quarkus.langchain4j.mcp.workshop.transport-type=HTTP
-quarkus.langchain4j.mcp.workshop.url=http://localhost:8081/mcp/sse
+quarkus.langchain4j.mcp.workshop.url=http://localhost:8082/mcp/sse
 
 ```
 
